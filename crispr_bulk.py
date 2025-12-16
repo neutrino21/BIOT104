@@ -2,6 +2,10 @@
 """
 CRISPR Bulk Aggregator - Aggregate cascade analyses across multiple genes
 Finds convergent intervention points and master regulators
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import json

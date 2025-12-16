@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
 Simple Network Visualization - No threading issues
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import http.server

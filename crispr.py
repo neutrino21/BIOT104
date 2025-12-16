@@ -8,6 +8,10 @@ Core workhorse for identifying optimal CRISPR targets based on:
 3. ISM impact scoring (AlphaGenome)
 4. Network topology analysis
 
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
+
 Designed for reliability and bulk processing compatibility.
 """
 

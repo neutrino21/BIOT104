@@ -3,6 +3,10 @@
 Integrated CRISPR Target Scoring System
 Combines ISM impact + TF motifs + multi-gene effects
 
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
+
 This solves: "Which CRISPR target gives maximum therapeutic impact?"
 """
 

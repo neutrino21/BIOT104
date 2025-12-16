@@ -2,6 +2,10 @@
 """
 Interactive NPZ file viewer with genomic context
 Usage: python npz_viewer.py file.npz [metadata.json]
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import sys

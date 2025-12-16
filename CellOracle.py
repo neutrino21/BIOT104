@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+"""
+CellOracle Gene Regulatory Network Analysis
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
+"""
 import sys
 import warnings
 warnings.filterwarnings('ignore')

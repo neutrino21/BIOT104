@@ -2,6 +2,10 @@
 """
 AlphaGenome API Interface - Optimized Version
 Unified interface for AlphaGenome regulatory prediction and scoring
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import os

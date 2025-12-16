@@ -2,6 +2,10 @@
 """
 Co-perturbation validation testing using CellOracle
 Tests predictions from ISM analysis against co-targeting strategies
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import numpy as np

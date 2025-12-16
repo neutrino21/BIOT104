@@ -3,6 +3,10 @@
 TF Network API - Unified interface for querying TF regulatory networks
 
 Provides fast, efficient access to multi-depth TF regulatory networks
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 built from merged TRRUST + promoter GRN data.
 
 Author: CellOracle Team

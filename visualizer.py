@@ -2,6 +2,10 @@
 """
 Advanced visualization system for AlphaGenome NPZ data
 Standalone visualizer with comprehensive parameters for publication-quality figures
+
+-----------------------------------------------------------------------
+Copyright (c) 2025 Sean Kiewiet. All rights reserved.
+-----------------------------------------------------------------------
 """
 
 import argparse
